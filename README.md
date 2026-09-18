@@ -3,3 +3,5 @@
 - Nombre: Julian Rengifo
 
 - Semestre: Sexto
+
+- Comida Favorita: Lasagna
