@@ -5,3 +5,5 @@
 - Semestre: Sexto
 
 - Comida Favorita: Lasagna
+  
+- Carrera Ingenieria de Sistemas
